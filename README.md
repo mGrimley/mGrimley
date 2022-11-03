@@ -1,6 +1,5 @@
 As the founder of a small business and a full-stack developer, I love learning how to solve problems. If I ever hit an obstacle I can’t overcome yet, I know I have the skills required to quickly learn how. From SQL database management to CAD software to even recipe optimization, there isn’t anything I can’t quickly gain a thorough understanding of.
 
-##
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-grimley/)
 
 # 📊 GitHub Stats:
