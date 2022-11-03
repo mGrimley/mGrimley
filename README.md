@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mGrimley&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mGrimley&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mGrimley&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mGrimley&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mGrimley&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mGrimley&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
