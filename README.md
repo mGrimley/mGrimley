@@ -6,5 +6,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mGrimley&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&hide=stars)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mGrimley&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mGrimley&theme=cobalt2&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mGrimley&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
